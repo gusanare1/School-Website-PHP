@@ -181,6 +181,16 @@ if  ($option=="home")
   include 'home.php';
 }
 
+
+
+
+if  ($option=="dashboard")
+{
+  include 'dashboard.php';
+}
+
+
+
 ?>
 </div>
 <script>
